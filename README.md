@@ -2,6 +2,8 @@
 This a project done while at Enseirb.<br/>
 The project aimed at unsing different procedural method in a game.<br/>
 Mac version too large to be available here
+Video:<br/>
+https://youtu.be/PszQhWrNBH0<br/>
 
 ## Ressources
 Character:<br/>
