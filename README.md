@@ -8,7 +8,9 @@ Character:<br/>
 https://assetstore.unity.com/packages/3d/characters/humanoids/character-pack-free-sample-79870<br/>
 Trees:<br/>
 https://assetstore.unity.com/packages/3d/vegetation/plants/realistic-tree1-44628<br/>
-Tectures:<br/>
+Textures:<br/>
 http://texturelib.com/<br/>
+School model:
+Made by a fellow student
 
 
